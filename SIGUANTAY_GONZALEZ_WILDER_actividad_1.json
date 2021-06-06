@@ -1,0 +1,17 @@
+[
+    {
+        "CrimeId": "160903280",
+        "OriginalCrimeTypeName": "Assault / Battery",
+        "Year": "2016",
+        "Month": "03",
+        "Day": "30",
+        "Hour": "18",
+        "Minute": "42",
+        "Disposition": "REP",
+        "Address": "100 Block Of Chilton Av",
+        "City": "San Francisco",
+        "State": "CA",
+        "AgencyId": "1",
+        "AddressType": "Premise Address"
+    }
+]
